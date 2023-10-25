@@ -277,7 +277,7 @@ transform: translateY(-5px);
 
 }
   form input, form textarea{
-    width: 400px;
+    width: 300px;
     border: 0;
     outline: none;
     background-color: #262626;
